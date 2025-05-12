@@ -1,0 +1,18 @@
+Salaried 101 Alice 5000
+Hourly 102 Bob 20 160
+Commission 103 Charlie 2000 15000 0.05
+Salaried 104 Dana 6200.50
+Hourly 105 Ethan 18.75 120
+Commission 106 Fiona 2500 10000 0.07
+Salaried 107 George 4500
+Hourly 108 Hannah 22.50 100
+Commission 109 Ian 3000 20000 0.04
+Salaried 110 Jenna 8000
+Hourly 111 Kyle 19 180
+Commission 112 Lana 1800 8000 0.06
+Salaried 113 Mike 5500
+Hourly 114 Nina 25 140
+Commission 115 Oscar 2200 13000 0.055
+Salaried 116 Piper 7000
+Hourly 117 Quinn 21.5 175
+Commission 118 Riley 2400 9500 0.065
