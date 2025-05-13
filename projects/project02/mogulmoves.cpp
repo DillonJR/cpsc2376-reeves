@@ -88,7 +88,7 @@ bool Game::pushMoney(int newRow, int newCol, int dRow, int dCol) {
     if (moneyNewRow < 0 || moneyNewRow >= size || moneyNewCol < 0 || moneyNewCol >= size)
         return false;
 
-    char moneyDest = board.at(moneyNewRow).at(moneyNewCol);  // Copy to preserve original value
+    char moneyDest = board.at(moneyNewRow).at(moneyNewCol);
 
     if (moneyDest == EMPTY || moneyDest == BANK) {
         board[moneyPos.row][moneyPos.col] = EMPTY;
