@@ -15,8 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="design.md">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Purchase.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimplePurchase.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TaxDecorator.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShippingFeeDecorator.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DiscountDecorator.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -21,9 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6e7e5298-7360-4436-bddb-131148b4a2a8}</ProjectGuid>
-    <RootNamespace>practice11</RootNamespace>
+    <ProjectGuid>{cf0fe426-ced4-4cf2-9f89-5022e6f66edd}</ProjectGuid>
+    <RootNamespace>strategypattern</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>practice14_strategy_pattern</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,7 +128,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="design.md" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RemoveVowelsFilter.h" />
+    <ClInclude Include="ReverseFilter.h" />
+    <ClInclude Include="TextFilter.h" />
+    <ClInclude Include="UppercaseFilter.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
