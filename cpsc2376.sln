@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "practice14_decorator_patter
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "practice12", "practice\practice12\practice12.vcxproj", "{46B2EDF8-296D-4490-ADEF-C70E29A79867}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "project02", "projects\project02\project02.vcxproj", "{FC66D4BA-00C9-4F3D-ADB7-EF5546D3255F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{46B2EDF8-296D-4490-ADEF-C70E29A79867}.Release|x64.Build.0 = Release|x64
 		{46B2EDF8-296D-4490-ADEF-C70E29A79867}.Release|x86.ActiveCfg = Release|Win32
 		{46B2EDF8-296D-4490-ADEF-C70E29A79867}.Release|x86.Build.0 = Release|Win32
+		{FC66D4BA-00C9-4F3D-ADB7-EF5546D3255F}.Debug|x64.ActiveCfg = Debug|x64
+		{FC66D4BA-00C9-4F3D-ADB7-EF5546D3255F}.Debug|x64.Build.0 = Debug|x64
+		{FC66D4BA-00C9-4F3D-ADB7-EF5546D3255F}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC66D4BA-00C9-4F3D-ADB7-EF5546D3255F}.Debug|x86.Build.0 = Debug|Win32
+		{FC66D4BA-00C9-4F3D-ADB7-EF5546D3255F}.Release|x64.ActiveCfg = Release|x64
+		{FC66D4BA-00C9-4F3D-ADB7-EF5546D3255F}.Release|x64.Build.0 = Release|x64
+		{FC66D4BA-00C9-4F3D-ADB7-EF5546D3255F}.Release|x86.ActiveCfg = Release|Win32
+		{FC66D4BA-00C9-4F3D-ADB7-EF5546D3255F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
